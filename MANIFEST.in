@@ -1,0 +1,2 @@
+recursive-include flask_toolbar/templates *.html
+recursive-include flask_toolbar/static *
